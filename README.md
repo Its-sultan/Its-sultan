@@ -19,8 +19,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Its-sultan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Its-sultan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+![Its-sultan trophies](https://github-profile-trophy.vercel.app/?username=Its-sultan&theme=onedark&row=1&column=6)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
