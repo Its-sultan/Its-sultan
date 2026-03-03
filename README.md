@@ -1,7 +1,9 @@
 ## Hello Dev 🧑🏽‍💻
 
 - 🔭 I’m currently working on [Schedio](https://schedio-pied.vercel.app/) and [QuizPop]()
-- 🌱 I’m currently learning System Design, Next Auth and NestJS 
+- !! I recently made a UI toast library called [toast-23](https://toast-23.vercel.app/)
+- 🌱 I’m currently learning System Design, Next Auth and NestJS
+- 🧑🏽‍💻  Exploring backend development in production level approach
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with MYSQL and Cloud Architecture  
 - 💬 Ask me about frontend, anime, football
